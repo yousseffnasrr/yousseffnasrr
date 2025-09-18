@@ -16,7 +16,7 @@ Currently, I work at **ECES (Egyptian Center for Economic Studies)**, where I fo
 ---
 
 ## 📊 Featured Projects
-- 📌 **[Job Scraper](https://github.com/yousseffnasrr/job-scraper)**  
+- 📌 **[Web Scraper](https://github.com/yousseffnasrr/Web-scraper)**  
   Automated tool to scrape job postings and extract relevant labor market insights.  
 
 - 📌 **[Data Cleaning](https://github.com/yousseffnasrr/Data-Cleaning)**  
