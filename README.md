@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hi there 👋 I'm Youssef  
 
-<!--
-**yousseffnasrr/yousseffnasrr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Data Analyst | Research Support | Tech & Innovation Policy Enthusiast**  
 
-Here are some ideas to get you started:
+I specialize in transforming raw, complex data into actionable insights that support evidence-based decision-making.  
+Currently, I work at **ECES (Egyptian Center for Economic Studies)**, where I focus on **major economic analysis**, **labor market dynamics**, and support high-impact research projects with data-driven insights.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔧 My Skills
+- **Data Collection:** Web Scraping (Selenium, BeautifulSoup)  
+- **Data Cleaning & Preparation:** Python (Pandas, NumPy), Excel
+- **Exploratory Data Analysis (EDA):** Data Visualization (Matplotlib, Seaborn), Descriptive Statistics  
+- **Research Support:** Turning data into research-ready outputs that inform policy  
+
+---
+
+## 📊 Featured Projects
+- 📌 **[Job Scraper](https://github.com/yousseffnasrr/job-scraper)**  
+  Automated tool to scrape job postings and extract relevant labor market insights.  
+
+- 📌 **[Data Cleaning](https://github.com/yousseffnasrr/Data-Cleaning)**  
+  Data wrangling pipeline for cleaning and standardizing data for research use.  
+
+- 📌 **[EDA Dashboard](https://github.com/yousseffnasrr/EDA-Dashboard)**  
+  Interactive visualizations summarizing trends and patterns in economic datasets.  
+
+---
+
+## 🌱 What I'm Working On
+- Building data pipelines that make research teams faster and more efficient  
+- Exploring the intersection of **technology, economics, and policy**   
+
+---
+
+## 📫 Let's Connect
+- **Email:** yousseef.m.n@gmail.com  
+- **LinkedIn:** https://www.linkedin.com/in/youssef-nasr-065642227/ 
+- **GitHub:** https://github.com/yousseffnasrr 
+
+---
+
+⭐️ _Always excited to collaborate on data projects that shape better policies and decisions._
