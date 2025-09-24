@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Youssef  
 
-**Data Analyst | Research Support | Tech & Innovation Policy Enthusiast**  
+**Data Analyst | Research Analyst | Tech & Innovation Enthusiast**  
 
 I specialize in transforming raw, complex data into actionable insights that support evidence-based decision-making.  
 Currently, I work at **ECES (Egyptian Center for Economic Studies)**, where I focus on **major economic analysis**, **labor market dynamics**, and support high-impact research projects with data-driven insights.  
